@@ -13,6 +13,7 @@
     padding-bottom: 40px;
     width: 300px;
 }
+
 .banner__search{
     display: flex;  /*expands the search date*/
     flex-direction: column;
@@ -42,7 +43,7 @@
     font-size: 50px;
     font-weight: 1000;
 }
-.banner__info>h5{
+.banner__info>h4{
     margin-top: 10px;
 }
 

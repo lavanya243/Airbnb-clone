@@ -1,5 +1,7 @@
 {
   "projects": {
-    "default": "airbnb-clone-feabc"
+    "default": "airbnb-clone-feabc",
+    "my-staging": "airbnb-clone-584d9",
+    "airbnb--clone": "airbnb-clone-584d9"
   }
 }
